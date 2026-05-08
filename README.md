@@ -1,2 +1,7 @@
-# demo-estudio-juridico-salas-asociados
-Demo web para Estudio Jurídico Salas &amp; Asociados — diseñada por eterlab.
+# Estudio Jurídico Salas & Asociados
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
